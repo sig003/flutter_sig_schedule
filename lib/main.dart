@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sig_schedule/components/sig_schedule_main.dart';
+import 'package:sig_schedule/screens/sig_schedule_main.dart';
 
 void main() {
   runApp(SigSchedule());
